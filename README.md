@@ -9,6 +9,11 @@ counts=[
 200,500,1000,2000,5000,10000,50000,100000,2000000,5000000,1000000]
 
 
+https://radar.cloudflare.com/charts/TopDomainsTable/attachment
+
+
+https://radar.cloudflare.com/charts/TopDomainsTable/attachment?location=&startDate=&endDate=20240709
+
 https://radar.cloudflare.com/charts/LargerTopDomainsTable/attachment?id=1294&top={counts}&startDate=2024-06-24&endDate=2024-07-01
 
 https://radar.cloudflare.com/charts/LargerTopDomainsTable/attachment?id=1295&top=500&startDate=2024-06-24&endDate=2024-07-01
